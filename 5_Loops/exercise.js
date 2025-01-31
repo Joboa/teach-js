@@ -46,6 +46,29 @@
 // 9. If the player runs out of attempts, the game ends, 
 // and the secret word is revealed.
 
+// Current word: _ _ _ _ _
+// Remaining attempts: 5
+// Guess a letter: p
+// Good guess!
+// Current word: _ p p _ _
+// Remaining attempts: 5
+// Guess a letter: a
+// Good guess!
+// Current word: a p p _ _
+// Remaining attempts: 5
+// Guess a letter: l
+// Good guess!
+// Current word: a p p l _
+// Remaining attempts: 5
+// Guess a letter: t
+// Wrong guess!
+// Current word: a p p l _
+// Remaining attempts: 4
+// Guess a letter: e
+// Good guess!
+// Congratulations! You've guessed the word: apple
+
+
 // Question 5: Tic-Tac-Toe
 
 // Two players (Player X and Player O) take turns marking spaces on a 3x3 grid. 
